@@ -1,9 +1,7 @@
 # Relational-Network-Pytorch-
-This is a Pytorch implementation of paper ![A Simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf) with interactive GUI Question-Answering Interface.
+This is a Pytorch implementation of paper [A Simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf) with interactive GUI Question-Answering Interface.
 
-## Installation
-
-### Required Package
+## Required Package
 1. tqdm
 2. tensorbardX
 3. numpy
@@ -59,4 +57,4 @@ go to the directory "InteractiveUI" and run the following command:
     python ui_main.py
   
 Here is a demo showing how it works.
-
+![](https://github.com/AlenUbuntu/Relational-Network-Pytorch-/blob/master/project/test.gif)
