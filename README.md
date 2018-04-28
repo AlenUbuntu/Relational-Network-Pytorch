@@ -55,6 +55,7 @@ go to the root directory and run the following command in terminal:
     python trainer.py
    
 Note that training a RN module requires a GPU installed on your local machine. Based on my experience, the training time is approximately 30 minutes using a GTX 1060 (6GB) graphic card. The train:valid:test ratio is 75%:15%:15%. The overall test accuracy is approximately 95.933%.
+
 Figures below provide a breif view of convergence rate. For every epoch we save the current model and use the 80-epochs model as our final model
 ![](https://github.com/AlenUbuntu/Relational-Network-Pytorch/blob/master/project/res.png)
 #### Running an interactive QA program
