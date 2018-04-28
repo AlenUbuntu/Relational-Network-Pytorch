@@ -21,19 +21,19 @@ Sort-of-CLEVR is simplified version of [CLEVR](http://cs.stanford.edu/people/jcj
 
 Non-relational questions are composed of 3 subtypes:
 
-Shape of certain colored object
+    Shape of certain colored object
 
-Horizontal location of certain colored object : whether it is on the left side of the image or right side of the image
+    Horizontal location of certain colored object : whether it is on the left side of the image or right side of the image
 
-Vertical location of certain colored object : whether it is on the upside of the image or downside of the image
+    Vertical location of certain colored object : whether it is on the upside of the image or downside of the image
 
 Theses questions are "non-relational" because the agent only need to focus on certain object.
 
 Relational questions are composed of 3 subtypes:
 
-Color of the object which is closest to the certain colored object
+    Color of the object which is closest to the certain colored object
 
-Color of the object which is furthest to the certain colored object
+    Color of the object which is furthest to the certain colored object
 
 These questions are "relational" because the agent has to consider the relations between objects.
 
